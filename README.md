@@ -1,4 +1,4 @@
-# 🏫 Market Research & Messaging Customization for School Outreach
+# 🏫 Market Research & Automation Messaging tracking Customization for School Outreach
 
 This project demonstrates a structured approach to identifying schools engaged in innovation programs and organizing a smart outreach system using Google Sheets.
 
